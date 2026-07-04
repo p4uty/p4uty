@@ -7,10 +7,10 @@ Hola, mucho gusto. Permítanme presentarme brevemente.
     <li>👨‍🔧 Soy <b>Desarrolador de software</b></li>
     <li>📍 Resido en colombia <b>Medellín</b></li>
     <li>🌱 Actualmente estoy aprendiendo <b>Seguridad informatica </b> y <b>Desarrollo de agentes de IA</b></li>
-    <li>💬 Pueden consultarme sobre <b>Desarrollo web, Linux, Docker, Observabilidad y monitero de sistemas.</b></li>
+    <li>💬 Pueden consultarme sobre <b>Desarrollo web, Linux, Docker, y administración de sistemas.</b></li>
   </ul>
 Soy un desarrolador de software apasionado y curioso, siempre en busca de nuevos retos y oportunidades de mejora.
-<br>Desde hace algunos años me he especializado en Desarrolo web, DevOps y Observabilidad en entornos TI  con herramientas como <b>ElasticSearch</b> y <b>Kibana</b>. ademas de usar stacks de desarrollo web como <b>MEVN</b> y algunos frameworks como <b>Nest JS</b> y <b>Quasar Framework.</b> <br>
+<br>Desde hace algunos años me he especializado en Desarrolo web y DevOps en entornos TI.</b> <br>
 Si desean conversar al respecto, no duden en contactarme.
 </p>
 
