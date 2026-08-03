@@ -1,10 +1,10 @@
-# 👋 Hola a todos soy (Juan Pablo Pelaez)</span>
+# 🫂 Hola a todos soy (Juan Pablo Pelaez)</span>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdjanRoeDZmNGNhZ2dmNW5pa2JhNWNyem82d3lqenM3MjVzbTd1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="47%" />
 <p width="45%">
 Hola, mucho gusto. Permítanme presentarme brevemente.
   <ul>
-    <li>👨‍🔧 Soy <b>Desarrolador de software</b></li>
+    <li>🛸 Soy <b>Desarrolador de software</b></li>
     <li>📍 Resido en colombia <b>Medellín</b></li>
     <li>🌱 Actualmente estoy aprendiendo <b>Seguridad informatica </b> y <b>Desarrollo de agentes de IA</b></li>
     <li>💬 Pueden consultarme sobre <b>Desarrollo web, Linux, Docker, y administración de sistemas.</b></li>
