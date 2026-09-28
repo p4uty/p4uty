@@ -1,4 +1,4 @@
-# 🫂 Hola a todos, soy Juan Pablo Peláez
+# 🫂 Hola a todos, soy Juan Pablo Pelaez
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdjanRoeDZmNGNhZ2dmNW5pa2JhNWNyem82d3lqenM3MjVzbTd1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="45%" />
 
